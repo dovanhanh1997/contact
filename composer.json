@@ -18,9 +18,9 @@
     },
     "extra": {
         "laravel": {
-            "providers": {
+            "providers": [
                 "HanhDo\\Contact\\ContactServiceProvider"
-            }
+            ]
         }
     }
 }
