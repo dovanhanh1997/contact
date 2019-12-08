@@ -1,0 +1,14 @@
+{
+    "name": "hanhdo/contact",
+    "description": "This is the first Hanh's package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Do Hanh",
+            "email": "dovanhanh12b@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
