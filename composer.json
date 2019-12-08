@@ -10,5 +10,17 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "HanhDo\\Contact\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": {
+                "HanhDo\\Contact\\ContactServiceProvider"
+            }
+        }
+    }
 }
